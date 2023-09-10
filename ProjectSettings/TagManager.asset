@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Minion
   - Border
+  - Floor
   layers:
   - Default
   - TransparentFX
